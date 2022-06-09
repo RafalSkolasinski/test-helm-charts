@@ -3,12 +3,12 @@ entries:
   mock-model:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2022-06-09T16:50:39.583173417Z"
+    created: "2022-06-09T16:51:13.110972518Z"
     description: Chart to deploy Seldon Mock Model
-    digest: 86b1f7b759f135e2c4b6d0a56595789cb7c156e271514178de4e5867fb5c91da
+    digest: 108c547dbb46aa0a7c0a64128c8061e9bfea49c8e1c610cddbf8859b8648e50f
     name: mock-model
     type: application
     urls:
     - https://rafalskolasinski.github.io/test-helm-charts/mock-model-0.7.0.tgz
     version: 0.7.0
-generated: "2022-06-09T16:50:39.582738402Z"
+generated: "2022-06-09T16:51:13.110498397Z"
